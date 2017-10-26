@@ -7,40 +7,20 @@
 
 | 章节 | 目录及链接       |是否完成读后感|
 |:-------:|:--------------|:---------:|
-||第 1 章 对 象 入 门||
-|1.1|[抽象的进步](https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.0.md)||
-11 27
-12 对象的接口28
-13 实现方案的隐藏 29
-14 方案的重复使用 30
-15 继承:重新使用接口 30
-151 改善基础类  30
-152 等价与类似关系 31
-16 多形对象的互换使用 31
-161 动态绑定 32
-162 抽象的基础类和接口 32
-17 对象的创建和存在时间 33
-171 集合与继承器  33
-172 单根结构 34
-173 集合库与方便使用集合 35
-174 清除时的困境:由谁负责清除?  35
-18 违例控制:解决错误 36
-19 多线程 37
-110 永久性 37
-111 Java 和因特网37
-1111 什么是 Web?  37
-1112 客户端编程(注释8)  38
-1113 服务器端编程  41
-1114 一个独立的领域:应用程序 41
-112 分析和设计 42
-1121 不要迷失 42
-1122 阶段 0:拟出一个计划 42
-1123 阶段 1 :要制作什么?  43
-1124 阶段 2:如何构建?  43
-1125 阶段 3:开始创建  44
-1126 阶段 4:校订  44
-1127 计划的回报  45
-113 Java 还是 C++?45
+||[第 1 章 对 象 入 门]((https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.1.md))||
+|1.1|[抽象的进步](https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.1.md)|是|
+|1.2|[对象的接口](https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.2.md)|是|
+|1.3|[实现方案的隐藏](https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.3.md)|是|
+|1.4|[方案的重复使用](https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.4.md)|是|
+|1.5|[ 继承:重新使用接口](https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.5.md)|是|
+|1.6|[多形对象的互换使用](https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.6.md)|是|
+|1.7|[对象的创建和存在时间](https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.7.md)|是|
+|1.8|[违例控制:解决错误](https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.8.md)|是|
+|1.9|[多线程](https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.9.md)|是|
+|1.10|[永久性](https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.10.md)|是|
+|1.11|[ Java 和因特网](https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.11.md)|是|
+|1.12|[分析和设计](https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.12.md)|是|
+|1.13|[Java 还是 C++](https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.13.md)|是|
  
 17第 2 章 一 切 都 是 对 象 46
 21 用句柄操纵对象 46
