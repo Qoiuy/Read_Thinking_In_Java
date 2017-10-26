@@ -4,10 +4,11 @@
 《THINKING IN JAVA》 中 文 版 1
 
 ||[]()||
+
 | 章节 | 目录及链接       |是否完成读后感|
 |:-------:|:--------------|:---------:|
 ||第 1 章 对 象 入 门||
-|1.1|[抽象的进步]()||
+|1.1|[抽象的进步](https://github.com/Qoiuy/Read_Thinking_In_Java/blob/master/chapter1/section1.0.md)||
 11 27
 12 对象的接口28
 13 实现方案的隐藏 29
